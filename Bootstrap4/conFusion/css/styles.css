@@ -37,3 +37,12 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.card-block{
+    padding: 10px 0px 0px 10px;
+}
+
+.btn-secondary{
+    background-color: white;
+    color: black;
+}
