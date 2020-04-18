@@ -55,3 +55,13 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.reserve_table_bg{
+  background: #D1C5E8;
+  color: black;
+}
+
+.reserve_table_head{
+  background: #512DA8;
+  color: white;
+}
